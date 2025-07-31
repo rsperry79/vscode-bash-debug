@@ -1,0 +1,3 @@
+[submodule "bashdb_dir"]
+	path = bashdb_dir
+	url = https://github.com/Trepan-Debuggers/bashdb.git
